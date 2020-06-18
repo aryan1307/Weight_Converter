@@ -1,0 +1,125 @@
+body
+{
+ background-color: black;
+ 
+}
+h1
+  {
+    text-align: center;
+    padding:10px;
+    margin:6px;
+    color:#FFFFFF;
+  }
+  #creator
+   {
+     font-size:25px;
+     color:rgb(210, 245, 16);
+     text-align:center;
+   }
+  #creator:hover   
+        {
+          font-size:40px;
+          color:#FFFFFF;
+          
+        }
+  input 
+       {
+         text-align: center;
+         width:50%;
+         margin-left: 25%;
+        margin-right: 25%;
+        height:50%;
+       }
+       
+  #gram_block
+             {
+               border-style: solid;
+               border-width: 2px;
+               border-color: yellow;
+               background-color: blue;
+               width:50%;
+               margin-left: 25%;
+               margin-right: 25%;
+               color:white;
+               opacity:0.8;
+             } 
+  #gram_block:hover{
+    opacity:1;
+    width:60%;
+    margin-left: 20%;
+               margin-right: 20%;
+  }
+ #pound_block
+             {
+               border-style: solid;
+               border-width: 2px;
+               border-color: yellow;
+               background-color: green;
+               width:50%;
+               display: inline-block;
+               margin-left: 25%;
+               margin-right: 25%;
+               color:white;
+             } 
+             #pound_block:hover{
+              opacity:1;
+              width:60%;
+              margin-left: 20%;
+                         margin-right: 20%;
+            }
+ #ounce_block
+             {
+               border-style: solid;
+               border-width: 2px;
+               border-color: yellow;
+               background-color: red;
+               width:50%;
+               margin-left: 25%;
+               margin-right: 25%;
+               color:white;
+             }
+             #ounce_block:hover{
+              opacity:1;
+              width:60%;
+              margin-left: 20%;
+                         margin-right: 20%;
+            }       
+
+ h4  
+   {
+     margin-left: 25%;
+     font-size: 25px;
+   }
+#gmsOutput
+          {
+            text-align: center;
+            font-size: 20px;
+            font-weight: 300;
+            
+          }
+#gmsOutput:hover
+{
+font-size:40px;
+}
+ #poundsOutput
+          {
+            text-align: center;
+            font-size: 20px;
+            font-weight: 300;
+          }
+          #poundsOutput:hover
+{
+font-size:40px;
+}
+ #ouncesOutput
+          {
+            text-align: center;
+            font-size: 20px;
+            font-weight: 300;
+          }
+          #ouncesOutput:hover
+          {
+          font-size:40px;
+          }
+ 
+  
